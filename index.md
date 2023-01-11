@@ -1,6 +1,5 @@
 ---
 layout: default
-<!-- layout: home # better for blog-type page--> 
 title: Home
 ---
 
